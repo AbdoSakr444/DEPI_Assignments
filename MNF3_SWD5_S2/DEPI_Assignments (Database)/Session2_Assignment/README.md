@@ -43,8 +43,4 @@ The file `SQL Implementation.sql` contains the SQL statements required to:
 
 ## 📌 Author
 
-**Your Name Here** (replace with your name)
-
-## 📄 License
-
-This project is for academic use only.
+**Abdulrahman Amr Abdelnaby Meslhy**
