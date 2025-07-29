@@ -1,0 +1,14 @@
+C:\Users\YN\source\repos\DEPI\bin\Debug\net9.0\DEPI.exe
+C:\Users\YN\source\repos\DEPI\bin\Debug\net9.0\DEPI.deps.json
+C:\Users\YN\source\repos\DEPI\bin\Debug\net9.0\DEPI.runtimeconfig.json
+C:\Users\YN\source\repos\DEPI\bin\Debug\net9.0\DEPI.dll
+C:\Users\YN\source\repos\DEPI\bin\Debug\net9.0\DEPI.pdb
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\DEPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\DEPI.AssemblyInfoInputs.cache
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\DEPI.AssemblyInfo.cs
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\DEPI.csproj.CoreCompileInputs.cache
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\DEPI.dll
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\refint\DEPI.dll
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\DEPI.pdb
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\DEPI.genruntimeconfig.cache
+C:\Users\YN\source\repos\DEPI\obj\Debug\net9.0\ref\DEPI.dll
