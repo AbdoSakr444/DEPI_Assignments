@@ -1,0 +1,14 @@
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\bin\Debug\net9.0\BankSystemDEPI.exe
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\bin\Debug\net9.0\BankSystemDEPI.deps.json
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\bin\Debug\net9.0\BankSystemDEPI.runtimeconfig.json
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\bin\Debug\net9.0\BankSystemDEPI.dll
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\bin\Debug\net9.0\BankSystemDEPI.pdb
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\BankSystemDEPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\BankSystemDEPI.AssemblyInfoInputs.cache
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\BankSystemDEPI.AssemblyInfo.cs
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\BankSystemDEPI.csproj.CoreCompileInputs.cache
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\BankSystemDEPI.dll
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\refint\BankSystemDEPI.dll
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\BankSystemDEPI.pdb
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\BankSystemDEPI.genruntimeconfig.cache
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\Gladiator\BankSystemDEPI\obj\Debug\net9.0\ref\BankSystemDEPI.dll
